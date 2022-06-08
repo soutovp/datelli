@@ -6,7 +6,6 @@ function Teste(props) {
     <div>teste </div>
   )
 }
-
 teste.propTypes = {}
 
 export default teste
